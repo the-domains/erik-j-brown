@@ -1,14 +1,26 @@
-layout_spectrum: 0.8701237351633608
-typography_spectrum: 0.2506711950991303
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.2795699
 color:
+  saturation: 0.05230365
   brandStrength: 0.5693814996629953
-  lightness: 0.7461484223604202
-  saturation: 0.052303649950772524
-  rhythmicContrast: 0.027702548308297992
+  lightness: 0.7461484
   brandColors:
     - '#FCFFF5'
     - '#D1DBBD'
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
+  rhythmicContrast: 0.2401434
+layout_spectrum: 1
 name: Erik J. Brown
