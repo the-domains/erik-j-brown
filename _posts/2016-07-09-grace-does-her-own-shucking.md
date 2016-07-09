@@ -1,13 +1,13 @@
 ---
 description: 'Grace Jones and the art of doing whatever the hell you want":'
-dateModified: '2016-07-09T18:58:27.208Z'
-datePublished: '2016-07-09T18:58:27.517Z'
+dateModified: '2016-07-09T18:58:28.328Z'
+datePublished: '2016-07-09T18:58:29.156Z'
 title: Grace Does Her Own Shucking...
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c936196-a482-4e88-9a69-1ed79e8b6880.jpg
 sourcePath: _posts/2016-07-09-grace-does-her-own-shucking.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
