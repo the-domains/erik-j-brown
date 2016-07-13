@@ -1,30 +1,30 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-typography_spectrum: 0.2795699
+author:
+  url: 'http://erikjbrown.com'
+  name: Erik J. Brown
+  email: erikjohnbrown@gmail.com
 color:
   saturation: 0.05230365
   brandStrength: 0.5693814996629953
-  lightness: 0.7461484
+  rhythmicContrast: 0.2401434
   brandColors:
     - '#FCFFF5'
     - '#D1DBBD'
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
-  rhythmicContrast: 0.2401434
+  lightness: 0.7461484
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
 layout_spectrum: 1
+typography_spectrum: 0.2795699
 name: Erik J. Brown
-author:
-  url: 'http://erikjbrown.com'
-  name: Erik J. Brown
-  email: erikjohnbrown@gmail.com
