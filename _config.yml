@@ -1,7 +1,4 @@
-author:
-  url: 'http://erikjbrown.com'
-  name: Erik J. Brown
-  email: erikjohnbrown@gmail.com
+typography_spectrum: 0.2795699
 color:
   saturation: 0.05230365
   brandStrength: 0.5693814996629953
@@ -13,6 +10,17 @@ color:
     - '#3E606F'
     - '#193441'
   lightness: 0.7461484
+layout_spectrum: 1
+author:
+  url: 'http://erikjbrown.com'
+  name: Erik J. Brown
+  email: erikjohnbrown@gmail.com
+name: Erik J. Brown
+navigation:
+  - id: 058405f9-3bef-4ff9-a0de-f1a40ee65f01
+    url: 2016-07-09-about-me.html
+    name: About Me
+    type: content
 collections:
   - index:
       path: /
@@ -25,6 +33,3 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 1
-typography_spectrum: 0.2795699
-name: Erik J. Brown
