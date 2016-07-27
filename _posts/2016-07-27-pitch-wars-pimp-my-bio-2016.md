@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-27T16:37:06.190Z'
+datePublished: '2016-07-27T16:38:47.151Z'
 sourcePath: _posts/2016-07-27-pitch-wars-pimp-my-bio-2016.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7c4c133-f4e1-41d9-967f-2e98aba0ead0.jpg
 author: []
 via: {}
-dateModified: '2016-07-27T16:37:05.723Z'
+dateModified: '2016-07-27T16:38:46.810Z'
 title: Pitch Wars Pimp My Bio 2016
 publisher: {}
 description: >-
@@ -36,13 +36,15 @@ You'll get to know him better later, but first, more about me and my writing sty
 
 ## MY STYLE:
 
-First and foremost _[Buffy the Vampire Slayer][1]_[is probably the biggest influence on my writing][1]. If you like Buffy, hopefully you like me. 
+First and foremost _[Buffy the Vampire Slayer][1]_[is probably the biggest influence on my writing][1]. If you like Buffy, hopefully you like me.
 
 Not just the snarky dialogue (which yes that's there too), but also the darker aspects of Buffy. I also take some of my darker horror elements from Stephen King.
 
 When I was in third grade I was a bit of a troublemaker. In order to make me pay attention in class my teacher developed this point system. At the end of the week if I got enough points after each lesson, my mother agreed to reward me with anything I wanted.
 
 One of those times I chose to go to the bookstore and pick out _any _book I wanted. I chose _The Shining_ by Stephen King.
+
+[I was a peculiar child.][2]
 
 That's when I started writing, by the way. It wasn't all blood and guts back then. In fact, the first short story I ever wrote told the brilliantly original tale of a money tree growing in our backyard. I forget all the magical logistics of growing said money tree (there was a distinct lack of Money Tree Security as well) but it was all in order to help my mother pay the bills. This was met with praise by my teacher and she hung it up in the hallway during Parent/Teacher night.
 
@@ -126,3 +128,4 @@ Grey's Anatomy (YES, it's still on... and yes I'm only moderately ashamed that I
 
 [0]: https://img.buzzfeed.com/buzzfeed-static/static/2015-05/21/23/enhanced/webdr02/anigif_original-grid-image-8856-1432264912-6.gif
 [1]: https://abigeyedfish.files.wordpress.com/2015/01/buffy-eyebrow-raise.gif?w=250
+[2]: http://i.imgur.com/aSczP.gif
