@@ -1,4 +1,4 @@
-typography_spectrum: 0.7723266915418208
+typography_spectrum: 0.4251234317198396
 color:
   saturation: 0.41670034267008305
   brandStrength: 0.9009709279052913
@@ -23,6 +23,9 @@ navigation:
   - url: 'https://www.instagram.com/erikjb/'
     name: Follow my Instagram!
     type: external
+  - id: 7f555797-1dec-4d54-9c1b-c2093dca0bc4
+    name: This link is to see when Navigation links start working...
+    type: content
 collections:
   - index:
       path: /
