@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-07-27T15:56:28.587Z'
+datePublished: '2016-07-27T16:01:08.354Z'
 sourcePath: _posts/2016-07-19-pitch-wars-pimp-my-bio.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-07-27T15:56:28.226Z'
+dateModified: '2016-07-27T16:01:08.194Z'
 title: Pitch Wars Pimp My Bio
 publisher: {}
 description: >-
