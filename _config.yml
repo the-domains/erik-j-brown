@@ -20,6 +20,9 @@ navigation:
   - url: 'https://twitter.com/WriterikJB'
     name: Follow Me on Twitter!
     type: external
+  - url: 'https://www.instagram.com/erikjb/'
+    name: Follow my Instagram!
+    type: external
 collections:
   - index:
       path: /
