@@ -1,16 +1,16 @@
 ---
 description: It’s finally happened.
-dateModified: '2016-07-19T21:32:52.269Z'
-datePublished: '2016-07-19T21:41:35.862Z'
+dateModified: '2016-07-27T16:00:09.784Z'
+datePublished: '2016-07-27T16:00:10.227Z'
 title: Living on the Grid...
 author: []
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/dcdd2c6e-9847-420b-93c3-0f4736aa47e8.jpg
 sourcePath: _posts/2016-07-09-living-on-the-grid.md
+hasPage: true
+publisher:
+  name: Erik J. Brown
+via: {}
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: living-on-the-grid/index.html
 _type: MediaObject
 
 ---
