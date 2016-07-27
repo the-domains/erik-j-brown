@@ -16,7 +16,10 @@ author:
   name: Erik J. Brown
   email: erikjohnbrown@gmail.com
 name: Erik J. Brown
-navigation: []
+navigation:
+  - url: 'https://twitter.com/WriterikJB'
+    name: Follow Me on Twitter!
+    type: external
 collections:
   - index:
       path: /
