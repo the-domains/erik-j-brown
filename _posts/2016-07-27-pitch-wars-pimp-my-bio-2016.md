@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-27T20:31:11.735Z'
+datePublished: '2016-07-27T20:32:48.826Z'
 sourcePath: _posts/2016-07-27-pitch-wars-pimp-my-bio-2016.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7c4c133-f4e1-41d9-967f-2e98aba0ead0.jpg
 author: []
 via: {}
-dateModified: '2016-07-27T20:31:10.702Z'
+dateModified: '2016-07-27T20:32:48.254Z'
 title: Pitch Wars Pimp My Bio 2016
 publisher: {}
 description: >-
@@ -32,7 +32,7 @@ My name is Erik J. Brown and I am a writer based out of Philadelphia, PA. I live
 
 I know, adorable right!?
 
-You'll get to know him better later, but first, more about me and my writing style.
+You'll get to know him better later.
 
 but first...
 
@@ -40,7 +40,7 @@ but first...
 
 -I once took the bus to the hospital in blinding pain at 4am because my neighbor wasn't answering the phone and my boyfriend was in Omaha on business. My appendix was removed some hours later. (Sidebar: If you're from Philly let me tell you, the ONLY time a SEPTA bus stops at yellow lights is if you're in horrific pain and it's 4am on the way to the hospital)
 
--For the past EIGHT months I have been having a slight Twitter war with Susan Sarandon. It all started after I replied to one of her tweets about Chicago Deep Dish pizza. (IT'S NOT A PIZZA, SUSAN. IT'S ITS OWN FOOD) 
+-For the past EIGHT months I have been having a slight Twitter war with Susan Sarandon. It all started after I replied to one of her tweets about Chicago Deep Dish pizza. (IT'S NOT A PIZZA, SUSAN. IT'S ITS OWN FOOD)
 
 -My boyfriend and I own a 41' sailboat that has survived Hurricane Sandy, being struck by lightning_two_ times, and nearly sinking into the Atlantic Ocean. The boat is also named after the former owner's deceased wife and we are too afraid to change it. Her name is the Lady Sam.
 
