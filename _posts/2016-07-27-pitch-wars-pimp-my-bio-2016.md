@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-07-27T16:26:27.892Z'
+datePublished: '2016-07-27T16:29:23.519Z'
+sourcePath: _posts/2016-07-27-pitch-wars-pimp-my-bio-2016.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7c4c133-f4e1-41d9-967f-2e98aba0ead0.jpg
 author: []
 via: {}
-dateModified: '2016-07-27T16:26:22.487Z'
+dateModified: '2016-07-27T16:29:23.133Z'
 title: Pitch Wars Pimp My Bio 2016
 publisher: {}
 description: >-
@@ -14,7 +15,6 @@ description: >-
   began showing up completely out of order or not at all. (Grid tech support
   claims they are working on it.)
 starred: false
-sourcePath: _posts/2016-07-27-pitch-wars-pimp-my-bio-2016.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -138,13 +138,9 @@ Grey's Anatomy (YES, it's still on... and yes I'm only moderately ashamed that I
 
 Here's a[quick little portal][14] back to the Blog Hop for more stalking.
 
-Before you go, according to the Grid tech support I'm allowed one gif per post so I guess here goes:
-
-.
-
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4978ca518de421d2f45e9fc39d5ce1ea99ea489a.gif" /><p>It's over! You can pick me now!</p></article>
-
 <!-- start LinkyTools script --\><script src="http://www.linkytools.com/basic\_linky\_include.aspx?id=270523" type="text/javascript" \></script\><!-- end LinkyTools script --\>
+
+[...][15]ok it's over. you can pick me now. 
 
 [0]: https://img.buzzfeed.com/buzzfeed-static/static/2015-05/21/23/enhanced/webdr02/anigif_original-grid-image-8856-1432264912-6.gif
 [1]: https://abigeyedfish.files.wordpress.com/2015/01/buffy-eyebrow-raise.gif?w=250
@@ -161,3 +157,4 @@ Before you go, according to the Grid tech support I'm allowed one gif per post s
 [12]: http://vignette3.wikia.nocookie.net/degrassi/images/2/24/Phoebe_stop_the_madness.gif/revision/latest?cb=20140201070335
 [13]: https://www.google.com/search?q=i+don't+know+what+pinterest+is+gif&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi09t_EuIDOAhUM7yYKHRcWDCAQ_AUICCgB&biw=1366&bih=643#tbm=isch&q=i+don%27t+have+pinterest+gif
 [14]: http://www.lanapattinson.com/pitchwars-2016-pimpmybio/
+[15]: https://49.media.tumblr.com/8c2611bebb079a952f108425ec616636/tumblr_o2icefZ4Fa1qkh5k8o2_r1_500.gif
