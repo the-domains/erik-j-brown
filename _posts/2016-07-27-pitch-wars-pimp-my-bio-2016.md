@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-27T17:46:15.381Z'
+datePublished: '2016-07-27T17:48:15.888Z'
 sourcePath: _posts/2016-07-27-pitch-wars-pimp-my-bio-2016.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7c4c133-f4e1-41d9-967f-2e98aba0ead0.jpg
 author: []
 via: {}
-dateModified: '2016-07-27T17:46:13.808Z'
+dateModified: '2016-07-27T17:48:08.666Z'
 title: Pitch Wars Pimp My Bio 2016
 publisher: {}
 description: >-
@@ -58,7 +58,7 @@ I like my books to be funny, scary, heartbreaking, surprising, mysterious, and t
 
 This year I am presenting my YA horror novel: _Lovecraft Will Tear Us Apart _(title subject to change, the original title was _Wendigo Your Own Way _but I was told to try something darker).
 
-Alexandra Aguilar is a typical girl, she has boyfriend troubles, school troubles, her recently deceased father was apparently a serial killer in his spare time, and after being nearly mauled to death by a monster her arm has begun shifting into tentacles. Now Alex, with the help of her best friend Cody, has to solve the murders, clear her father's name, _and_ deal with these pesky tentacles.
+Alexandra Aguilar is a typical girl, she has boyfriend troubles, school troubles, her recently deceased father was apparently a serial killer in his spare time, and after being nearly mauled to death by a monster her arm has begun shifting into tentacles. Now Alex, with the help of her best friend Cody, has to solve a new round of murders, clear her father's name, _and_ deal with these pesky tentacles.
 
 [It's one part Buffy...][4]
 
