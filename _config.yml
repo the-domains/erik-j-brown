@@ -16,10 +16,7 @@ author:
   name: Erik J. Brown
   email: erikjohnbrown@gmail.com
 name: Erik J. Brown
-navigation:
-  - id: 28f5528c-824e-46dd-8866-311aaaf2c8fc
-    name: Pitch Wars Pimp My Bio
-    type: content
+navigation: []
 collections:
   - index:
       path: /
