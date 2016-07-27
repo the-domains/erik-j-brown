@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-27T16:49:01.246Z'
+datePublished: '2016-07-27T16:50:22.027Z'
 sourcePath: _posts/2016-07-27-pitch-wars-pimp-my-bio-2016.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7c4c133-f4e1-41d9-967f-2e98aba0ead0.jpg
 author: []
 via: {}
-dateModified: '2016-07-27T16:49:00.568Z'
+dateModified: '2016-07-27T16:50:21.603Z'
 title: Pitch Wars Pimp My Bio 2016
 publisher: {}
 description: >-
@@ -134,7 +134,13 @@ Orphan Black
 
 Grey's Anatomy (YES, it's still on... and yes I'm only moderately ashamed that I still watch it...)
 
-<!-- start LinkyTools script --\><script src="http://www.linkytools.com/basic\_linky\_include.aspx?id=270523" type="text/javascript" \></script\><!-- end LinkyTools script --\>
+Before you go, according to the Grid tech support I'm allowed one gif per post so I guess here goes:
+
+.
+
+<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c17aede3854666f711c01f6e44be3698/noop.gif?input=https%3A%2F%2F49.media.tumblr.com%2F8c2611bebb079a952f108425ec616636%2Ftumblr_o2icefZ4Fa1qkh5k8o2_r1_500.gif" /><p>It's over! You can pick me now!</p></article>
+
+
 
 [0]: https://img.buzzfeed.com/buzzfeed-static/static/2015-05/21/23/enhanced/webdr02/anigif_original-grid-image-8856-1432264912-6.gif
 [1]: https://abigeyedfish.files.wordpress.com/2015/01/buffy-eyebrow-raise.gif?w=250
