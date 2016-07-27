@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-27T17:48:15.888Z'
+datePublished: '2016-07-27T17:51:04.818Z'
 sourcePath: _posts/2016-07-27-pitch-wars-pimp-my-bio-2016.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7c4c133-f4e1-41d9-967f-2e98aba0ead0.jpg
 author: []
 via: {}
-dateModified: '2016-07-27T17:48:08.666Z'
+dateModified: '2016-07-27T17:51:04.354Z'
 title: Pitch Wars Pimp My Bio 2016
 publisher: {}
 description: >-
@@ -68,7 +68,7 @@ Alexandra Aguilar is a typical girl, she has boyfriend troubles, school troubles
 
 I wanted to do something different with the "teen-finds-out-there's-a-secret-world" trope. Buffy was "The Chosen One," she didn't have a choice and was basically forced to save the world every week. While that is all fine and dandy for Buffy, I didn't want that for my character. I wanted her to actually _choose _this path. Her motivations drive her further into conflict of her own making instead of conflict finding her.
 
-I would love to be part of Pitch Wars so I can fine-tune and develop my complicated lead character and fill out any plot holes that my arise. The good news is, I take criticism like a champ.
+I would love to be part of Pitch Wars so I can fine-tune and develop my complicated lead character and fill out any plot holes that may arise. The good news is, I take criticism like a champ.
 
 I went to school for film and focused on writing for media and the most beneficial classes were those where we critiqued each other's writing. The teacher would cut us off if anyone said:
 
