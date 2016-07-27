@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-27T17:00:07.553Z'
+datePublished: '2016-07-27T17:32:01.059Z'
 sourcePath: _posts/2016-07-27-pitch-wars-pimp-my-bio-2016.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7c4c133-f4e1-41d9-967f-2e98aba0ead0.jpg
 author: []
 via: {}
-dateModified: '2016-07-27T17:00:07.057Z'
+dateModified: '2016-07-27T17:32:00.565Z'
 title: Pitch Wars Pimp My Bio 2016
 publisher: {}
 description: >-
@@ -51,6 +51,8 @@ That's when I started writing, by the way. It wasn't all blood and guts back the
 My mother maintains that it was the best thing I've ever written.
 
 While it is exceedingly sad to have peaked at such a young age I've managed to persevere and continue writing. I am currently a contributor over at [HorrorFreakNews.com][3] and this is my second year participating in Pitch Wars.
+
+I like my books to be funny, scary, heartbreaking, surprising, mysterious, and thrilling. Basically the best books ever. 
 
 ## MY BOOK:
 
