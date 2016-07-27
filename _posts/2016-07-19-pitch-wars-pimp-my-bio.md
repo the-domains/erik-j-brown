@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-07-27T15:34:11.542Z'
+datePublished: '2016-07-27T15:36:56.766Z'
 sourcePath: _posts/2016-07-19-pitch-wars-pimp-my-bio.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-07-27T15:34:02.134Z'
+dateModified: '2016-07-27T15:36:56.186Z'
 title: Pitch Wars Pimp My Bio
 publisher: {}
 description: >-
@@ -121,7 +121,11 @@ Orphan Black
 
 Grey's Anatomy (YES, it's still on... and yes I'm only moderately ashamed that I still watch it...)
 
-According to the Grid tech support I'm allowed one gif per post so I guess here goes:
+Here's a[quick little portal][14] back to the Blog Hop for more stalking.
+
+Before you go, according to the Grid tech support I'm allowed one gif per post so I guess here goes:
+
+.
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4978ca518de421d2f45e9fc39d5ce1ea99ea489a.gif" /><p>It's over! You can pick me now...</p></article>
 
@@ -141,3 +145,4 @@ According to the Grid tech support I'm allowed one gif per post so I guess here 
 [11]: http://i.imgur.com/cocvp.gif
 [12]: http://vignette3.wikia.nocookie.net/degrassi/images/2/24/Phoebe_stop_the_madness.gif/revision/latest?cb=20140201070335
 [13]: https://www.google.com/search?q=i+don't+know+what+pinterest+is+gif&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi09t_EuIDOAhUM7yYKHRcWDCAQ_AUICCgB&biw=1366&bih=643#tbm=isch&q=i+don%27t+have+pinterest+gif
+[14]: http://www.lanapattinson.com/pitchwars-2016-pimpmybio/
