@@ -17,12 +17,7 @@ author:
   email: erikjohnbrown@gmail.com
 name: Erik J. Brown
 navigation:
-  - id: 058405f9-3bef-4ff9-a0de-f1a40ee65f01
-    url: 2016-07-09-about-me.html
-    name: About Me
-    type: content
   - id: 28f5528c-824e-46dd-8866-311aaaf2c8fc
-    url: 2016-07-19-pitch-wars-pimp-my-bio.html
     name: Pitch Wars Pimp My Bio
     type: content
 collections:
