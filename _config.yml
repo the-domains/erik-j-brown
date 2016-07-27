@@ -20,12 +20,12 @@ navigation:
   - url: 'https://www.instagram.com/erikjb/'
     name: Follow my Instagram!
     type: external
-  - id: 7f555797-1dec-4d54-9c1b-c2093dca0bc4
-    name: This link is to see when Navigation links start working...
-    type: content
   - url: 'https://twitter.com/WriterikJB'
     name: Follow Me on Twitter!
     type: external
+  - id: 7f555797-1dec-4d54-9c1b-c2093dca0bc4
+    name: This link is to see when Navigation links start working...
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0aa1662-5927-44e6-bc67-1001dd86cd2c.jpg
 collections:
