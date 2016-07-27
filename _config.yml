@@ -40,7 +40,9 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Erik J. Brown
+title: >-
+  Writer. Accountant. Badass. Past Life Credits: a saint bernard, a beer-brewing
+  monk, a sommelier, and Mrs. O'Leary's Cow.
 description: >-
   Writer. Accountant. Badass. Past Life Credits: a saint bernard, a beer-brewing
   monk, a sommelier, and Mrs. O'Leary's Cow.
