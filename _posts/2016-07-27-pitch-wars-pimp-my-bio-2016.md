@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-27T16:46:53.891Z'
+datePublished: '2016-07-27T16:49:01.246Z'
 sourcePath: _posts/2016-07-27-pitch-wars-pimp-my-bio-2016.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7c4c133-f4e1-41d9-967f-2e98aba0ead0.jpg
 author: []
 via: {}
-dateModified: '2016-07-27T16:46:53.464Z'
+dateModified: '2016-07-27T16:49:00.568Z'
 title: Pitch Wars Pimp My Bio 2016
 publisher: {}
 description: >-
@@ -56,7 +56,7 @@ While it is exceedingly sad to have peaked at such a young age I've managed to p
 
 This year I am presenting my YA horror novel: _Lovecraft Will Tear Us Apart _(title subject to change, the original title was _Wendigo Your Own Way _but I was told to try something darker).
 
-Alexandra Aguilar is a typical girl, she has boyfriend troubles, school troubles, her recently deceased father was apparently a serial killer in his spare time, and after being nearly mauled to death by a monster her arm has begun shifting into tentacles. Now Alex, with the help of her best friend Cody, has to solve the murders, clear her father's name, _and_ deal with these pesky tentacles. 
+Alexandra Aguilar is a typical girl, she has boyfriend troubles, school troubles, her recently deceased father was apparently a serial killer in his spare time, and after being nearly mauled to death by a monster her arm has begun shifting into tentacles. Now Alex, with the help of her best friend Cody, has to solve the murders, clear her father's name, _and_ deal with these pesky tentacles.
 
 [It's one part Buffy...][4]
 
@@ -133,6 +133,8 @@ Game of Thrones
 Orphan Black
 
 Grey's Anatomy (YES, it's still on... and yes I'm only moderately ashamed that I still watch it...)
+
+<!-- start LinkyTools script --\><script src="http://www.linkytools.com/basic\_linky\_include.aspx?id=270523" type="text/javascript" \></script\><!-- end LinkyTools script --\>
 
 [0]: https://img.buzzfeed.com/buzzfeed-static/static/2015-05/21/23/enhanced/webdr02/anigif_original-grid-image-8856-1432264912-6.gif
 [1]: https://abigeyedfish.files.wordpress.com/2015/01/buffy-eyebrow-raise.gif?w=250
