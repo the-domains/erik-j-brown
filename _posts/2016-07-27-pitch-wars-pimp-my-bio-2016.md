@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-27T16:55:38.776Z'
+datePublished: '2016-07-27T17:00:07.553Z'
 sourcePath: _posts/2016-07-27-pitch-wars-pimp-my-bio-2016.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7c4c133-f4e1-41d9-967f-2e98aba0ead0.jpg
 author: []
 via: {}
-dateModified: '2016-07-27T16:55:38.286Z'
+dateModified: '2016-07-27T17:00:07.057Z'
 title: Pitch Wars Pimp My Bio 2016
 publisher: {}
 description: >-
@@ -134,17 +134,9 @@ Orphan Black
 
 Grey's Anatomy (YES, it's still on... and yes I'm only moderately ashamed that I still watch it...)
 
-Before you go, according to the Grid tech support I'm allowed one gif per post so I guess here goes:
-
-.
-
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4978ca518de421d2f45e9fc39d5ce1ea99ea489a.gif" /><p>It's over! You can pick me now!</p></article>
-
-.
-
-.
-
 <!-- start LinkyTools script --\><p\><b\>Powered by Linky Tools</b\></p\><p\><a href="http://www.linkytools.com/wordpress\_list.aspx?id=270523&type=basic"\>Click here</a\> to enter your link and view this Linky Tools list...</p\><!-- end LinkyTools script --\>
+
+[... It's over. You can pick me now...][14]
 
 [0]: https://img.buzzfeed.com/buzzfeed-static/static/2015-05/21/23/enhanced/webdr02/anigif_original-grid-image-8856-1432264912-6.gif
 [1]: https://abigeyedfish.files.wordpress.com/2015/01/buffy-eyebrow-raise.gif?w=250
@@ -160,3 +152,4 @@ Before you go, according to the Grid tech support I'm allowed one gif per post s
 [11]: http://i.imgur.com/cocvp.gif
 [12]: http://vignette3.wikia.nocookie.net/degrassi/images/2/24/Phoebe_stop_the_madness.gif/revision/latest?cb=20140201070335
 [13]: https://www.google.com/search?q=i+don't+know+what+pinterest+is+gif&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi09t_EuIDOAhUM7yYKHRcWDCAQ_AUICCgB&biw=1366&bih=643#tbm=isch&q=i+don%27t+have+pinterest+gif
+[14]: https://49.media.tumblr.com/8c2611bebb079a952f108425ec616636/tumblr_o2icefZ4Fa1qkh5k8o2_r1_500.gif
