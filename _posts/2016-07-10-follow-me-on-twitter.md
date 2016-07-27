@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T02:52:32.691Z'
+datePublished: '2016-07-27T16:53:11.170Z'
 sourcePath: _posts/2016-07-10-follow-me-on-twitter.md
 isBasedOnUrl: 'https://twitter.com/WriterikJB'
 keywords:
@@ -36,7 +36,7 @@ author:
       src: >-
         https://pbs.twimg.com/profile_images/631233636000509952/qs0lUXkK_400x400.jpg
       height: 311
-dateModified: '2016-07-20T02:52:26.628Z'
+dateModified: '2016-07-27T16:53:10.660Z'
 title: Follow me on Twitter
 app_links:
   - path: >-
@@ -44,16 +44,13 @@ app_links:
     package: com.twitter.android
     namespace: google
     type: android
-publisher:
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-  url: 'https://twitter.com'
-  name: Twitter
-  domain: twitter.com
+publisher: {}
 description: >-
   The latest Tweets from Erik J. Brown (@WriterikJB). Red Wedding Planner and
   Social Commentator by profession. Contributor at HorrorFreakNews.com. Opinions
   are government regulated and not my own. Philadelphia, PA
 inLanguage: en
+via: {}
 starred: false
 inFeed: true
 hasPage: false
