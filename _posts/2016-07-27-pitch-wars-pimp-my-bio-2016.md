@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-27T20:32:48.826Z'
+datePublished: '2016-07-27T20:42:10.718Z'
 sourcePath: _posts/2016-07-27-pitch-wars-pimp-my-bio-2016.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7c4c133-f4e1-41d9-967f-2e98aba0ead0.jpg
 author: []
 via: {}
-dateModified: '2016-07-27T20:32:48.254Z'
+dateModified: '2016-07-27T20:41:45.808Z'
 title: Pitch Wars Pimp My Bio 2016
 publisher: {}
 description: >-
@@ -37,6 +37,8 @@ You'll get to know him better later.
 but first...
 
 ## Two Truths and a Lie!
+
+Two of the following statements are true. One is a lie. BUT WHICH?
 
 -I once took the bus to the hospital in blinding pain at 4am because my neighbor wasn't answering the phone and my boyfriend was in Omaha on business. My appendix was removed some hours later. (Sidebar: If you're from Philly let me tell you, the ONLY time a SEPTA bus stops at yellow lights is if you're in horrific pain and it's 4am on the way to the hospital)
 
