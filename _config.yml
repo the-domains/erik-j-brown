@@ -1,16 +1,16 @@
-typography_spectrum: 0.4251234317198396
+typography_spectrum: 0.35885741375386715
 color:
-  saturation: 0.41670034267008305
-  brandStrength: 0.9009709279052913
-  rhythmicContrast: 0.03583640092983842
+  saturation: 0.9840084514580667
+  brandStrength: 0.5994449418503791
+  rhythmicContrast: 0.6719130594283342
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
-  lightness: 0.6143280547112226
-layout_spectrum: 0.6184346203226596
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  lightness: 0.9762082565575838
+layout_spectrum: 0.07450797385536134
 author:
   url: 'http://erikjbrown.com'
   name: Erik J. Brown
