@@ -17,11 +17,11 @@ author:
   email: erikjohnbrown@gmail.com
 name: Erik J. Brown
 navigation:
-  - url: 'https://twitter.com/WriterikJB'
-    name: Follow Me on Twitter!
-    type: external
   - url: 'https://www.instagram.com/erikjb/'
     name: Follow my Instagram!
+    type: external
+  - url: 'https://twitter.com/WriterikJB'
+    name: Follow Me on Twitter!
     type: external
   - id: 7f555797-1dec-4d54-9c1b-c2093dca0bc4
     name: This link is to see when Navigation links start working...
