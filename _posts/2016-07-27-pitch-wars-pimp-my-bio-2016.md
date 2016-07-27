@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-27T16:35:05.265Z'
+datePublished: '2016-07-27T16:37:06.190Z'
 sourcePath: _posts/2016-07-27-pitch-wars-pimp-my-bio-2016.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7c4c133-f4e1-41d9-967f-2e98aba0ead0.jpg
 author: []
 via: {}
-dateModified: '2016-07-27T16:35:04.691Z'
+dateModified: '2016-07-27T16:37:05.723Z'
 title: Pitch Wars Pimp My Bio 2016
 publisher: {}
 description: >-
@@ -36,7 +36,7 @@ You'll get to know him better later, but first, more about me and my writing sty
 
 ## MY STYLE:
 
-First and foremost
+First and foremost _[Buffy the Vampire Slayer][1]_[is probably the biggest influence on my writing][1]. If you like Buffy, hopefully you like me. 
 
 Not just the snarky dialogue (which yes that's there too), but also the darker aspects of Buffy. I also take some of my darker horror elements from Stephen King.
 
@@ -125,3 +125,4 @@ Orphan Black
 Grey's Anatomy (YES, it's still on... and yes I'm only moderately ashamed that I still watch it...)
 
 [0]: https://img.buzzfeed.com/buzzfeed-static/static/2015-05/21/23/enhanced/webdr02/anigif_original-grid-image-8856-1432264912-6.gif
+[1]: https://abigeyedfish.files.wordpress.com/2015/01/buffy-eyebrow-raise.gif?w=250
