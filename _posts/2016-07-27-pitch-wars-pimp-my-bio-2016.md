@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-27T16:30:14.753Z'
+datePublished: '2016-07-27T16:32:05.950Z'
 sourcePath: _posts/2016-07-27-pitch-wars-pimp-my-bio-2016.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7c4c133-f4e1-41d9-967f-2e98aba0ead0.jpg
 author: []
 via: {}
-dateModified: '2016-07-27T16:30:14.345Z'
+dateModified: '2016-07-27T16:31:59.621Z'
 title: Pitch Wars Pimp My Bio 2016
 publisher: {}
 description: >-
@@ -38,7 +38,7 @@ You'll get to know him better later, but first, more about me and my writing sty
 
 ## MY STYLE:
 
-First and foremost 
+First and foremost
 
 Not just the snarky dialogue (which yes that's there too), but also the darker aspects of Buffy. I also take some of my darker horror elements from Stephen King.
 
