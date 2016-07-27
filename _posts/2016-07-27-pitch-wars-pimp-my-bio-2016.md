@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-27T16:40:33.095Z'
+datePublished: '2016-07-27T16:46:53.891Z'
 sourcePath: _posts/2016-07-27-pitch-wars-pimp-my-bio-2016.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7c4c133-f4e1-41d9-967f-2e98aba0ead0.jpg
 author: []
 via: {}
-dateModified: '2016-07-27T16:40:32.799Z'
+dateModified: '2016-07-27T16:46:53.464Z'
 title: Pitch Wars Pimp My Bio 2016
 publisher: {}
 description: >-
@@ -56,13 +56,19 @@ While it is exceedingly sad to have peaked at such a young age I've managed to p
 
 This year I am presenting my YA horror novel: _Lovecraft Will Tear Us Apart _(title subject to change, the original title was _Wendigo Your Own Way _but I was told to try something darker).
 
-Alexandra Aguilar is a typical girl, she has boyfriend troubles, school troubles, her recently deceased father was apparently a serial killer in his spare time, and after being nearly mauled to death by a monster her arm has begun shifting into tentacles. Now Alex, with the help of her best friend Cody, has to solve the murders, clear her father's name, _and_ deal with these pesky tentacles. Life's hard.
+Alexandra Aguilar is a typical girl, she has boyfriend troubles, school troubles, her recently deceased father was apparently a serial killer in his spare time, and after being nearly mauled to death by a monster her arm has begun shifting into tentacles. Now Alex, with the help of her best friend Cody, has to solve the murders, clear her father's name, _and_ deal with these pesky tentacles. 
+
+[It's one part Buffy...][4]
+
+[One part Veronica Mars...][5]
+
+[And just a dash of Lovecraft...][6]
 
 I wanted to do something different with the "teen-finds-out-there's-a-secret-world" trope. Buffy was "The Chosen One," she didn't have a choice and was basically forced to save the world every week. While that is all fine and dandy for Buffy, I didn't want that for my character. I wanted her to actually _choose _this path. Her motivations drive her further into conflict of her own making instead of conflict finding her.
 
 I would love to be part of Pitch Wars so I can fine-tune and develop my complicated lead character and fill out any plot holes that my arise. The good news is, I take criticism like a champ.
 
-I went to school for film and focused on writing for media and the most beneficial classes were those where we critiqued each others writing. The teacher would cut us off if anyone said:
+I went to school for film and focused on writing for media and the most beneficial classes were those where we critiqued each other's writing. The teacher would cut us off if anyone said:
 
 "I really liked---"
 
@@ -71,6 +77,8 @@ I went to school for film and focused on writing for media and the most benefici
 It was all the best kind of tough love. I'm here to make my book better and I'm willing to work my ass off to do it.
 
 ## **The Social Media Shuffle:**
+
+Feel free to follow me on [Twitter][7]: @WriterikJB or [Instagram][8]: ErikJB or on [Goodreads][9] or [Snapchat][10] or [tumblr][11] or [Google+][12] or even [Pinterest.][13] (look closely at those last four...)
 
 If you want to nerd out with me on some other fun stuff:
 
@@ -130,3 +138,13 @@ Grey's Anatomy (YES, it's still on... and yes I'm only moderately ashamed that I
 [1]: https://abigeyedfish.files.wordpress.com/2015/01/buffy-eyebrow-raise.gif?w=250
 [2]: http://i.imgur.com/aSczP.gif
 [3]: http://horrorfreaknews.com/author/hfncontributorbrown
+[4]: http://i.imgur.com/nQj35ku.gif
+[5]: https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ef14953-a02c-4f6b-8096-5225eb4527f1.gif
+[6]: https://66.media.tumblr.com/f1375f8b24c1eba3cadd3b0799320ca8/tumblr_nqxlmzldfp1tbff57o1_500.gif
+[7]: https://twitter.com/WriterikJB
+[8]: https://www.instagram.com/erikjb/
+[9]: https://www.goodreads.com/user/show/22960845-erik-brown
+[10]: http://scoopempire.com/wp-content/uploads/2016/05/snapchat.gif
+[11]: http://i.imgur.com/cocvp.gif
+[12]: http://vignette3.wikia.nocookie.net/degrassi/images/2/24/Phoebe_stop_the_madness.gif/revision/latest?cb=20140201070335
+[13]: https://www.google.com/search?q=i+don't+know+what+pinterest+is+gif&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi09t_EuIDOAhUM7yYKHRcWDCAQ_AUICCgB&biw=1366&bih=643#tbm=isch&q=i+don%27t+have+pinterest+gif
