@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-27T16:52:33.937Z'
+datePublished: '2016-07-27T16:55:06.099Z'
 sourcePath: _posts/2016-07-27-pitch-wars-pimp-my-bio-2016.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7c4c133-f4e1-41d9-967f-2e98aba0ead0.jpg
 author: []
 via: {}
-dateModified: '2016-07-27T16:52:33.271Z'
+dateModified: '2016-07-27T16:55:05.657Z'
 title: Pitch Wars Pimp My Bio 2016
 publisher: {}
 description: >-
@@ -140,7 +140,7 @@ Before you go, according to the Grid tech support I'm allowed one gif per post s
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4978ca518de421d2f45e9fc39d5ce1ea99ea489a.gif" /><p>It's over! You can pick me now!</p></article>
 
-<!-- start LinkyTools script --\><p\><b\>Powered by Linky Tools</b\></p\><p\><a href="http://www.linkytools.com/wordpress\_list.aspx?id=270523&type=basic"\>Click here</a\> to enter your link and view this Linky Tools list...</p\><!-- end LinkyTools script --\>
+
 
 [0]: https://img.buzzfeed.com/buzzfeed-static/static/2015-05/21/23/enhanced/webdr02/anigif_original-grid-image-8856-1432264912-6.gif
 [1]: https://abigeyedfish.files.wordpress.com/2015/01/buffy-eyebrow-raise.gif?w=250
